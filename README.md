@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student majoring in Informatics Engineering at Jenderal Ahmad Yani University, I have experience in making many personal projects ranging from web, mobile apps, to desktop applications, I really like developing mobile apps and web apps, I also understand various programming languages and frameworks starting from Javascript, HTML and CSS to develop web app projects, I also understand frameworks such as React Native and Bootstrap, I really like to learn new things to develop and improve my knowledge and skills
+Sebagai seorang Fullstack Developer dan Android Developer dengan pengalaman lebih dari 2 tahun, saya memiliki keahlian luas dalam berbagai bahasa pemrograman dan framework. Bidang yang saya kuasai meliputi JavaScript, Kotlin, PHP, React JS, React Native, Next.js, Laravel, Express.js, serta CodeIgniter untuk pengembangan aplikasi Web dan Android. Saya memiliki kemampuan dalam mengembangkan aplikasi web dinamis dan berpengalaman baik dalam pengembangan frontend maupun backend. Selain itu, saya juga terampil dalam manajemen database. Selain fokus pada pengembangan Web dan Android, saya juga tertarik pada bidang DevOps. Saya berkomitmen untuk selalu mengikuti perkembangan teknologi terkini demi memberikan solusi inovatif.
 
 
 ## 🌐 Socials:
